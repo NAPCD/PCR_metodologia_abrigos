@@ -102,3 +102,9 @@ Nosso foco maior permanecerá na alocação de pessoas nessas regiões, pois vem
 <br>
 
 <img align="center" alt="infraestrutura por rpa" height="300" style="border-radius:50px;" src="img/infra_por_rpa.png">
+
+##
+
+<div align="center">
+  <img align="center" alt="logo_napcd" height="150" style="border-radius:50px;" src="/img/NAPCD LOGO VERSOES-00.png">
+  </div>
