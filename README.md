@@ -58,14 +58,14 @@ Na RPA 3 os bairros com pessoas em situação de vulnerabilidade são NOVA DESCO
 Na RPA 6 temos os seguintes bairros: COHAB com 232 pessoas, IBURA com 78 pessoas, JORDÃO com  106 pessoas.
 <div align="center">
   <br>
-  <img alt="rpa1" height="300" style="border-radius:50px;" src="/img/rpa1.png">
-  <img alt="rpa2" height="300" style="border-radius:50px;" src="/img/rpa2.png">
+  <img alt="rpa1" height="265" style="border-radius:50px;" src="/img/rpa1.png">
+  <img alt="rpa2" height="265" style="border-radius:50px;" src="/img/rpa2.png">
   <br>
-  <img alt="rpa3" height="300" style="border-radius:50px;" src="/img/rpa3.png">
-  <img alt="rpa4" height="300" style="border-radius:50px;" src="/img/rpa4.png">
+  <img alt="rpa3" height="265" style="border-radius:50px;" src="/img/rpa3.png">
+  <img alt="rpa4" height="265" style="border-radius:50px;" src="/img/rpa4.png">
   <br>
-  <img alt="rpa5" height="300" style="border-radius:50px;" src="/img/rpa5.png">
-  <img alt="rpa6" height="300" style="border-radius:50px;" src="/img/rpa6.png">
+  <img alt="rpa5" height="265" style="border-radius:50px;" src="/img/rpa5.png">
+  <img alt="rpa6" height="265" style="border-radius:50px;" src="/img/rpa6.png">
   <br>
 </div>
 
